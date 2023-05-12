@@ -1,0 +1,19 @@
+Clone a repository: First clone the repository before working on that repository.
+  "git clone <git_repository_link> <folder_name_to_clone_but_this_is_optional>"
+
+Get the status of the current repository: Know the changed files and not added files
+  "git status"
+
+Add a file to repository: Create the script file to work, then add into respository. This is only required only if you want to add new file.
+  "git add <file_name>"
+  
+Commit the code changes to respository: After working with file, the updated file has to be commited to repository.
+  "git commit"
+  
+Push to server: The changes commited shoud be pushed to server, so that others can use
+  "git push"
+  
+Pull code from server: The code change done by others can be taken from server
+  "git pull"
+  
+  
